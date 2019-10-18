@@ -5,7 +5,7 @@ THe folder has a multipart zip file to be unzipped. Steps to install is given be
 
 
 
-#Installation Instructions: 
+# Installation Instructions: 
 
 /**
 * This is a windows installation. But will not differ much except the syntax for other distributions.
@@ -34,7 +34,7 @@ THe folder has a multipart zip file to be unzipped. Steps to install is given be
                 - Goto the bin location of the cassandra
                 - type command :/> cqlsh.bat
 
-#Tips:
+# Tips:
 
 Command to open environment variable dialog on your system: 
 
