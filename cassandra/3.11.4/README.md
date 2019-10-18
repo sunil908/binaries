@@ -8,7 +8,7 @@ THe folder has a multipart zip file to be unzipped. Steps to install is given be
 #Installation Instructions: 
 
 /**
-* This is a windows installation. But will not differ much except the syntax.
+* This is a windows installation. But will not differ much except the syntax for other distributions.
 * This is a free Apache distribution 3.11.4 
 *
 **/
@@ -33,3 +33,10 @@ THe folder has a multipart zip file to be unzipped. Steps to install is given be
                 - Open a new CMD shell
                 - Goto the bin location of the cassandra
                 - type command :/> cqlsh.bat
+
+#Tips:
+
+Command to open environment variable dialog on your system: 
+
+Run command -> "C:\Windows\system32\rundll32.exe" sysdm.cpl,EditEnvironmentVariables
+
