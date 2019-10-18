@@ -33,6 +33,9 @@ THe folder has a multipart zip file to be unzipped. Steps to install is given be
                 - Open a new CMD shell
                 - Goto the bin location of the cassandra
                 - type command :/> cqlsh.bat
+                - To connect to the cluster you can use command 
+                              :/> cqlsh public_ip_of_your_node  9042 -u your_username -p your_password
+
 
 # Tips:
 
