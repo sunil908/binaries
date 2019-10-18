@@ -23,7 +23,7 @@ THe folder has a multipart zip file to be unzipped. Steps to install is given be
         - Add bin path to the %PATH%. Open enviornment viarable and add  
               For example, if you extracted the files into program data folder then
                SET PATH = %PATH%;C:\ProgramData\Python-2.7.13.1\python-2.7.13.amd64
-        - Confirm that the python CLI is working. Open cmd from any location newly and type the below command. It should show 2.7.13
+        - Confirm that the python CLI is working. Open a new cmd from any other folder location and type the below command. It should show 2.7.13
                 :/>  python --version
 5. You will now be able to start the CASSANDRA instance in standalone single node.
                 goto the cassandra BIN folder and enter
